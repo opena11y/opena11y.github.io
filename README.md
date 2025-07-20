@@ -4,7 +4,7 @@
 
 * [OpenA11y Evaluation Library](https://opena11y.github.io/evaluation-library/)
 * [AInspector for Firefox](https://ainspector.disability.illinois.edu/)
-* Headings, Landmkarks and Links (H2lL](https://opena11y.github.io/h2l-side-panel/)
+* [Headings, Landmkarks and Links](https://opena11y.github.io/h2l-side-panel/) (H2L)
 
 ## Other Projects
 
