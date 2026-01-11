@@ -12,7 +12,7 @@
 | Project | GitHub | Issues |
 | :------- | :------ | :------ |
 | [AInspector for WCAG Evaluation](https://opena11y.github.io/ainspector) | [AInspector Code](https://github.com/opena11y/ainspector) | [AInspector Issues](https://github.com/opena11y/ainspector/issues)
-| [Headings, Landmkarks and Links](https://opena11y.github.io/h2l-side-panel/) (H2L) | [H2L Code](https://github.com/opena11y/h2l-side-panel) | [H2L Issues/issues](https://github.com/opena11y/h2l-side-panel/issues)
+| [Headings, Landmkarks and Links](https://opena11y.github.io/h2l-side-panel/) (H2L) | [H2L Code](https://github.com/opena11y/h2l-side-panel) | [H2L Issues](https://github.com/opena11y/h2l-side-panel/issues)
 
 ## Archived Projects
 
