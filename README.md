@@ -4,7 +4,7 @@
 
 | Project | GitHub | Issues |
 | :------- | :------ | :------ |
-| [OpenA11y Evaluation Library](https://opena11y.github.io/evaluation-library/) | [AInspector Code](https://github.com/opena11y/evaluation-library) | [AInspector Issues](https://github.com/opena11y/evaluation-library/issues) |
+| [OpenA11y Evaluation Library](https://opena11y.github.io/evaluation-library/) | [Library Code](https://github.com/opena11y/evaluation-library) | [Library Issues](https://github.com/opena11y/evaluation-library/issues) |
 | [ARIA in HTML](https://www.w3.org/TR/html-aria/) Speciifcation to JSON Object | [ARIA-in-HTML to JSON Code](https://github.com/opena11y/aria-in-html-to-code) | [ARIA-in-HTML to JSON Issues](https://github.com/opena11y/aria-in-html-to-code/issues) |
 | [ARIA Specification](https://www.w3.org/TR/wai-aria-1.3/) to JSON Object | [ARIA to JSON Code](https://github.com/opena11y/aria-to-code) | [ARIA to JSON Issues](https://github.com/opena11y/aria-to-code/issues) |
 
