@@ -19,7 +19,7 @@
 
 | Project | GitHub | Issues |
 | :------- | :------ | :------ |
-| [SkipTo.js forBypass Blocks]([https://opena11y.github.io/ainspector](https://skipto-landmarks-headings.github.io/page-script-5/)) | [SkipTo.js Code]([https://github.com/opena11y/ainspector](https://github.com/skipto-landmarks-headings/page-script-5)) | [SkipTo.js Issues]([https://github.com/opena11y/ainspector/issues](https://github.com/skipto-landmarks-headings/page-script-5/issues)) |
+| [SkipTo.js forBypass Blocks](https://skipto-landmarks-headings.github.io/page-script-5/) | [SkipTo.js Code](https://github.com/skipto-landmarks-headings/page-script-5) | [SkipTo.js Issues](https://github.com/skipto-landmarks-headings/page-script-5/issues) |
 
 
 ## Archived Projects
