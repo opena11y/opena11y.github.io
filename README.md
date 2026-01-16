@@ -15,6 +15,13 @@
 | [AInspector for WCAG Evaluation](https://opena11y.github.io/ainspector) | [AInspector Code](https://github.com/opena11y/ainspector) | [AInspector Issues](https://github.com/opena11y/ainspector/issues) |
 | [Headings, Landmkarks and Links](https://opena11y.github.io/h2l-side-panel/) (H2L) | [H2L Code](https://github.com/opena11y/h2l-side-panel) | [H2L Issues](https://github.com/opena11y/h2l-side-panel/issues) |
 
+## Related Projects
+
+| Project | GitHub | Issues |
+| :------- | :------ | :------ |
+| [SkipTo.js forBypass Blocks]([https://opena11y.github.io/ainspector](https://skipto-landmarks-headings.github.io/page-script-5/)) | [SkipTo.js Code]([https://github.com/opena11y/ainspector](https://github.com/skipto-landmarks-headings/page-script-5)) | [SkipTo.js Issues]([https://github.com/opena11y/ainspector/issues](https://github.com/skipto-landmarks-headings/page-script-5/issues)) |
+
+
 ## Archived Projects
 
 * [AInspector for Firefox](https://github.com/opena11y/ainspector-for-firefox)
